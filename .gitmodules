@@ -1,0 +1,6 @@
+[submodule "MAML-LQR"]
+	path = MAML-LQR
+	url = https://github.com/jd-anderson/MAML-LQR.git
+[submodule "TinyMPC"]
+	path = TinyMPC
+	url = https://github.com/TinyMPC/TinyMPC.git
